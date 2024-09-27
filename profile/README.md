@@ -1,4 +1,8 @@
-## Hi there 👋
+<img src="팀원1_이미지_URL" width="100"><br>팀원1 조한재@GitHub_username
+<img src="팀원2_이미지_URL" width="100"><br>팀원2 박혜지@GitHub_username
+<img src="팀원3_이미지_URL" width="100"><br>팀원3 박이연@GitHub_username
+<img src="팀원4_이미지_URL" width="100"><br>팀원4 노영준@GitHub_username
+<img src="팀원4_이미지_URL" width="100"><br>팀원4 황진혁@GitHub_username
 
 <!--
 
