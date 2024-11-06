@@ -5,7 +5,7 @@
 Shoecream!</p>
 
 <p align="center">
-    <img src="assets/슈크림로고.png" width="400"/>
+    <img src="../assets/슈크림 로고.png" width="400"/>
 </p>
 
 <p align="center">
