@@ -55,13 +55,13 @@ Shoecream!</p>
 ## 📖 개발 문서
 
 ### 사용자 기능 정의서
-[Toktalk-사용자기능정의서](https://docs.google.com/spreadsheets/d/1hTXPtqSm0-TfreD6YDV7OjoGXLJM5EcBrwWiUu-YdOE/edit?gid=0#gid=0)
+[Shoecream-사용자기능정의서]
 
 ### ERD
-[Toktalk-ERD](https://dbdiagram.io/d/66d67b36eef7e08f0e7ce579)
+[Shoecream-ERD]
 
 ### API 명세서
-[Toktalk-API명세서](https://docs.google.com/spreadsheets/d/1LRlVrv9YjJwhcFjobObjsSQG63fPyL1gVmaUg4kTPy0/edit?gid=254563277#gid=254563277)
+[Shoecream-API명세서]
 
 <br>
 <br>
@@ -114,7 +114,7 @@ Shoecream!</p>
 
 ## 🙏Team List
 
-|**[고경범](https://github.com/KoKyungBeom)(팀장)**|**[황진혁](https://github.com/JINHYEOKKK)**|**[조한재](https://github.com/whgkswo)**|**[은하늘](https://github.com/skyla00)**|
+|**[조한재](https://github.com/whgkswo)(팀장)**|**[황진혁](https://github.com/JINHYEOKKK)**|**[노영준](https://github.com/YoungJunRoh)**|**[박혜지](https://github.com/quokkavely)**|**[박이연](https://github.com/pyyeon)**|
 |:--:|:--:|:--:|:--:|
 |<img src="" width="150px" height="150px">|<img src="" width="150px" height="150px"> | <img src="" width="150px" height="150px"> | <img src="" width="150px" height="150px">|
 
