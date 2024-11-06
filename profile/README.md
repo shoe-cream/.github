@@ -2,7 +2,7 @@
 
 <p align="center">
 영업 ERP프로그램<br>
-Toktalk!</p>
+Shoecream!</p>
 
 <p align="center">
     <img src="https://toktalk-storage.s3.ap-northeast-2.amazonaws.com/image/toktalk.png" width="400"/>
