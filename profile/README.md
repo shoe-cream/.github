@@ -5,7 +5,7 @@
 Shoecream!</p>
 
 <p align="center">
-    <img src="https://toktalk-storage.s3.ap-northeast-2.amazonaws.com/image/toktalk.png" width="400"/>
+    <img src="assets/toktalk.png" width="400"/>
 </p>
 
 <p align="center">
