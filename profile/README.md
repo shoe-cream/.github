@@ -5,7 +5,7 @@
 Shoecream!</p>
 
 <p align="center">
-    <img src="https://github.com/shoe-cream/.github/blob/main/assets/슈크림 로고.png?raw=true" width="400"/>
+    <img src="https://github.com/shoe-cream/.github/blob/main/assets/Shoecream.png?raw=true" width="400"/>
 </p>
 
 <p align="center">
