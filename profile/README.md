@@ -9,7 +9,7 @@ Shoecream!</p>
 </p>
 
 <p align="center">
-    <strong>Shoecream</strong>사용자의 UI, UX의 편의성을 증가시키고 데이터 무결성을 효과적으로 지원하고자 기획
+    <strong>Shoecream</strong>사용자의 UI, UX의 편의성을 증가시키고 데이터 무결성을 효과적으로 지원하고자 기획
 상품·판매업체·판매가 등을 Master Table을 활용하여 통합 ·관리하며 사용자가 다양한 정보에 쉽게 접근할 수 있도록 지원 및
 주문의 상태변화 및 주문 상품의 추가·수정·삭제 등을 기록하여 데이터의 무결성을 높여주는 서비스
 </p>
