@@ -55,13 +55,13 @@ Shoecream!</p>
 ## 📖 개발 문서
 
 ### 사용자 기능 정의서
-[Shoecream-사용자기능정의서]
+[Shoecream-사용자기능정의서](https://docs.google.com/spreadsheets/d/1RtNganEZjI7zgh-_9a5je43TusXtxKvI3SDyRD7M96w/edit?gid=950334662#gid=950334662)
 
 ### ERD
-[Shoecream-ERD]
+[Shoecream-ERD](https://dbdiagram.io/d/ShoeCream-66d57fb4eef7e08f0e690699)
 
 ### API 명세서
-[Shoecream-API명세서]
+[Shoecream-API명세서](https://docs.google.com/spreadsheets/d/11a3kDReiLAml24D9rmlMNPg9kVqnhmFiQPYPQCW-OKw/edit?gid=2035118313#gid=2035118313)
 
 <br>
 <br>
