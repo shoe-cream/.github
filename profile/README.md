@@ -90,7 +90,7 @@ Shoecream!</p>
 ## 🙏Team List
 |**[조한재](https://github.com/whgkswo)(팀장)**|**[황진혁](https://github.com/JINHYEOKKK)**|**[노영준](https://github.com/YoungJunRoh)**|**[박혜지](https://github.com/quokkavely)**|**[박이연](https://github.com/pyyeon)**|
 |:--:|:--:|:--:|:--:|:--:|
-|<img src="" width="150" height="200">|<img src="https://github.com/shoe-cream/.github/blob/main/assets/hwang.jpeg?raw=true" width="150" height="180">|<img src="https://github.com/user-attachments/assets/a1605e5f-6f85-451c-92f4-84435646189e" width="150" height="200">|<img src="" width="150" height="200">|<img src="" width="150" height="200">|
+|<img src="" width="150" height="200">|<img src="https://github.com/shoe-cream/.github/blob/main/assets/hwang.jpeg?raw=true" width="150" height="180">|<img src="https://github.com/user-attachments/assets/a1605e5f-6f85-451c-92f4-84435646189e" width="150" height="180">|<img src="" width="150" height="200">|<img src="" width="150" height="200">|
 
 <br>
 
