@@ -90,7 +90,7 @@ Shoecream!</p>
 ## 🙏Team List
 |**[조한재](https://github.com/whgkswo)(팀장)**|**[황진혁](https://github.com/JINHYEOKKK)**|**[노영준](https://github.com/YoungJunRoh)**|**[박혜지](https://github.com/quokkavely)**|**[박이연](https://github.com/pyyeon)**|
 |:--:|:--:|:--:|:--:|:--:|
-|<img src="" width="150" height="200">|<img src="https://github.com/shoe-cream/.github/blob/main/assets/hwang.jpeg?raw=true" width="150" height="180">|<img src="" width="150" height="200">|<img src="" width="150" height="200">|<img src="" width="150" height="200">|
+|<img src="" width="150" height="200">|<img src="https://github.com/shoe-cream/.github/blob/main/assets/hwang.jpeg?raw=true" width="150" height="180">|<img src="https://github.com/user-attachments/assets/a1605e5f-6f85-451c-92f4-84435646189e" width="150" height="200">|<img src="" width="150" height="200">|<img src="" width="150" height="200">|
 
 <br>
 
@@ -99,33 +99,45 @@ Shoecream!</p>
 
 ## 🔍Page Preview
 
-| 회원가입 및 로그인 | 아이템 등록 |
+| 로그인 | 메인페이지 및 차트 |
 | :---: | :---: |
-| <img src="" width="400" height="200"/> | <img src="" width="400" height="200"/> |
+| <img src="https://github.com/user-attachments/assets/db968ab7-385c-4083-a018-7e9d9080ca19" width="400" height="200"/> | <img src="https://github.com/user-attachments/assets/6a00dbbb-3058-419b-8d79-5a2179eb0f3c" width="400" height="200"/> |
 
-|  바이어 등록  | 바이어 아이템 등록 |
+| 제조사 등록 | 제조사 수정 및 삭제 |
 | :---: | :---: |
-| <img src="" width="400" height="200"/> | <img src="" width="400" height="200"/> |
+| <img src="https://github.com/user-attachments/assets/9fa23342-6ba1-446d-8e9e-91d85b1b610c" width="400" height="200"/> | <img src="https://github.com/user-attachments/assets/a59153d6-44cb-4e04-9f7b-b7ee31d6ef6e" width="400" height="200"/> |
 
-| 공급사 등록 | 공급사 아이템 등록 |
+| 제조사 정렬 및 찾기 | 바이어 등록 |
 | :---: | :---: |
-| <img src="" width="400" height="200"/> | <img src="" width="400" height="200"/> |
+| <img src="https://github.com/user-attachments/assets/4c903894-5da3-4974-ab43-7ffc515bff5b" width="400" height="200"/> | <img src="https://github.com/user-attachments/assets/d9f3a0f8-c095-4848-88bf-1ab157e2f651" width="400" height="200"/> |
 
-| 주문 등록 | 주문 삭제|
+|  바이어 수정 및 삭제  | 바이어 정렬 및 찾기 |
 | :---: | :---: |
-| <img src="" width="400" height="200"/> | <img src="" width="400" height="200"/> |
+| <img src="https://github.com/user-attachments/assets/67c2d80b-2c89-483d-b357-4bc98228ac7f" width="400" height="200"/> | <img src="https://github.com/user-attachments/assets/af3005b3-0093-46a5-bfb9-0e693e6f2507" width="400" height="200"/> |
 
-| 요금 관리(상담사) | 기본 일정 관리(상담사) |
+| 아이템 등록 | 아이템 수정 및 삭제 |
 | :---: | :---: |
-| <img src="" width="400" height="200"/> | <img src="" width="400" height="200"/> |
+| <img src="https://github.com/user-attachments/assets/166f1d57-48db-427c-8139-d4d3162dcf6f" width="400" height="200"/> | <img src="https://github.com/user-attachments/assets/3a040220-5874-4c18-9687-a3b4f3a66f53" width="400" height="200"/> |
 
-| 특정일 일정 관리(상담사) | 채팅(회원,상담사) |
+| 아이템 정렬 및 찾기 | 바이어 아이템 등록 |
 | :---: | :---: |
-| <img src="" width="400" height="200"/> | <img src="" width="400" height="200"/> |
+| <img src="https://github.com/user-attachments/assets/24fe5d0a-970e-487b-8867-d1a98b057801" width="400" height="200"/> | <img src="https://github.com/user-attachments/assets/6b34c862-668e-4309-b306-d872c798e083" width="400" height="200"/> |
 
-| 채팅방 닫기(상담사) | 리포트 작성(상담사) |
+| 바이어 아이템 수정 | 바이어 아이템 정렬 및 찾 |
 | :---: | :---: |
-| <img src="" width="400" height="200"/> | <img src="" width="400" height="200"/> |
+| <img src="https://github.com/user-attachments/assets/f9c73ef4-570e-4b18-ada9-0c94094d4bd3" width="400" height="200"/> | <img src="https://github.com/user-attachments/assets/f397f0ec-1652-4b89-afbf-32ddda3e9a85" width="400" height="200"/> |
+
+| 주문 등록 | 전체 주문 조회 및 수정 |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/2b00b882-1375-4b90-b2db-5faeb1a853c6" width="400" height="200"/> | <img src="https://github.com/user-attachments/assets/02981f71-c3a5-48d2-8ccf-e23cffa5177f" width="400" height="200"/> |
+
+| 주문 승인 | 주문 합격 |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/8aec5ccd-67be-40e0-aa3b-b1cbef3db1b3" width="400" height="200"/> | <img src="https://github.com/user-attachments/assets/018d76f1-d64a-444a-ab76-ca13eb39c0b6" width="400" height="200"/> |
+
+| 주문 반려 및 취소 |
+| :---: |
+| <img src="https://github.com/user-attachments/assets/04504cde-45b6-46f5-9fdb-bd8818000cff" width="400" height="200"/> |
 
 
 <br> 
