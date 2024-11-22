@@ -1,5 +1,5 @@
 #  Shoecream
-<p align="right">
+<p align="center">
     http://shoecream-bucket.s3-website.ap-northeast-2.amazonaws.com/dashboard
 </p>
 
