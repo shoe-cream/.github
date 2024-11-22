@@ -1,6 +1,6 @@
 #  Shoecream
 <p align="center">
-    http://shoecream-bucket.s3-website.ap-northeast-2.amazonaws.com/dashboard
+    http://shoecream-bucket.s3-website.ap-northeast-2.amazonaws.com
 </p>
 
 <p align="center">
