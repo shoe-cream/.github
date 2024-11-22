@@ -1,4 +1,5 @@
 #  Shoecream
+http://shoecream-bucket.s3-website.ap-northeast-2.amazonaws.com/dashboard
 
 <p align="center">
 영업 ERP프로그램<br>
