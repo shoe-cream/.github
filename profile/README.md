@@ -12,7 +12,7 @@ Shoecream!</p>
 </p>
 
 <p align="center">
-    <strong>Shoecream</strong>Shoecream은 신발 산업 특화 ERP 시스템으로, Master Table 기반의 통합 관리와 주문 이력 추적을 통해 효율적인 영업 관리 환경을 제공합니다.
+    <strong>Shoecream</strong>은 신발 산업 특화 ERP 시스템으로, Master Table 기반의 통합 관리와 주문 이력 추적을 통해 효율적인 영업 관리 환경을 제공합니다.
 </p>
 
 <br> 
